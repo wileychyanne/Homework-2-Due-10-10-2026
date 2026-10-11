@@ -1,0 +1,6 @@
+Customer name: Chyanne Wiley
+Account number: 5032904
+Electricity usage: 350 kWh
+Electricity charge: $51.00
+Late-Payment fee: $25.00
+Total Amount due: $76.00
